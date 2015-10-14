@@ -31,5 +31,9 @@
   "Role": {
     "dataSource": "db",
     "public": false
+  },
+  "Test": {
+    "dataSource": "sqlite3",
+    "public": true
   }
 }
