@@ -1,12 +1,6 @@
 {
   "db": {
     "name": "db",
-    "connector": "memory"
-  },
-  "sqlite3": {
-    "name": "sqlite3",
-    "connector": "loopback-connector-sqlite",
-    "file_name": null,
-    "debug": false
+    "connector": null
   }
 }
